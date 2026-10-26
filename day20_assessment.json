@@ -1,0 +1,15 @@
+{
+    "task": "Day 20 - Pronunciation Assessment",
+    "provider": "Groq",
+    "model": "whisper-large-v3-turbo",
+    "audio_file": "C:\\Users\\RAVI TEJA\\OneDrive\\Desktop\\craftechco\\Tasks\\day20_pronunciation_assessment\\day20_recording.wav",
+    "reference_text": "Hi team, my name is Ravi Teja. Nice to meet you. Today, I am practicing my English speaking and pronunciation. I will speak clearly and confidently.",
+    "transcription": "Hi team, my name is Rautizja. Nice to meet you. Today I am practicing my English speaking and pronunciation. I will speak clearly and confidently.",
+    "assessment": {
+        "reference_word_count": 26,
+        "transcript_word_count": 25,
+        "word_errors": 2,
+        "word_match_percentage": 92.31
+    },
+    "processed_at": "2026-10-26T06:22:14.199967+00:00"
+}
